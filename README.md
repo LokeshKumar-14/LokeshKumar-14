@@ -111,7 +111,7 @@ A smart display for the Elecrow CrowPanel 7.0" (ESP32-S3, 800×480) with a glass
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LokeshKumar-14&bg_color=0D1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="GitHub contribution activity graph for LokeshKumar-14" width="100%">
+    <img src="https://ghchart.rshah.org/7C3AED/LokeshKumar-14" alt="GitHub contribution calendar for LokeshKumar-14" width="90%">
 </p>
 
 <sub>These cards are generated live from GitHub by third-party services. If one is missing, the service is temporarily unavailable.</sub>
