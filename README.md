@@ -43,7 +43,7 @@ Alongside mobile, I'm interested in embedded systems and IoT, where software mee
 <table>
 <tr>
 <td width="34%" align="center" valign="top">
-<a href="https://lokeshkumar-14.github.io/MedOrd-info/"><img src="https://lokeshkumar-14.github.io/MedOrd-info/app%20pictures/feature%20graphics.png" alt="MedOrd app screenshot" width="100%"></a>
+<a href="https://lokeshkumar-14.github.io/MedOrd-info/"><img src="https://lokeshkumar-14.github.io/MedOrd-info/app%20pictures/features%20graphics.png" alt="MedOrd app screenshot" width="100%"></a>
 </td>
 <td width="66%" valign="top">
 
