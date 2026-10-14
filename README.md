@@ -43,7 +43,7 @@ Alongside mobile, I'm interested in embedded systems and IoT, where software mee
 <table>
 <tr>
 <td width="34%" align="center" valign="top">
-<a href="https://lokeshkumar-14.github.io/MedOrd-info/"><img src="https://lokeshkumar-14.github.io/MedOrd-info/app%20pictures/p1.jpeg" alt="MedOrd app screenshot" width="100%"></a>
+<a href="https://lokeshkumar-14.github.io/MedOrd-info/"><img src="https://lokeshkumar-14.github.io/MedOrd-info/app%20pictures/feature%20graphics.jpeg" alt="MedOrd app screenshot" width="100%"></a>
 </td>
 <td width="66%" valign="top">
 
@@ -64,7 +64,7 @@ An Android platform that connects medicine agencies and medical stores. Stock, o
 <table>
 <tr>
 <td width="34%" align="center" valign="top">
-<a href="https://lokeshkumar-14.github.io/abm-edux-info/"><img src="https://lokeshkumar-14.github.io/abm-edux-info/Abm%20Pics/p1.jpeg" alt="ABM EduX app screenshot" width="100%"></a>
+<a href="https://lokeshkumar-14.github.io/abm-edux-info/"><img src="https://lokeshkumar-14.github.io/abm-edux-info/Abm%20Pics/architecture.jpeg" alt="ABM EduX app screenshot" width="100%"></a>
 </td>
 <td width="66%" valign="top">
 
